@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif, Arial, Helvetica;
+    background-color: #ebebeb;
+}
+
+
+/*Css del header */
+
+header{
+    background-color: #EAC926  ;
+    font-size: 12px;
+}
+
+header .logo{ 
+    background: size 200px ;
+}
+
+header nav{ 
+    font-size: 12px;
+}
+
+
+header .burguer-menu{
+    background-color:#1259c3;;
+    color: #ebebeb;
+}
+
+header .banner{ 
+    margin: 20px ;
+}
+
+header .icono-busqueda{ 
+    background-color: #ebebeb;
+}
+
+/*Css del main*/
+
+.titulos {
+    font-size: 24px
+}
+
+.producto {
+    font-size: 16px;
+}
+
+.descuentos {
+    font-size: 16px;
+    color: #39b54a;
+}
+
+.precios {
+    font-size: 18px;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+/*Css del footer*/
+
+.info-footer {
+    text-align: center;
+    margin: 10px;
+}
+
+.iconos-footer{
+    color: #1259c3;;
+    background-color: #ebebeb;
+    background-size: 2em;
+    margin-bottom: 10px;
+    text-align: center;  
+}
